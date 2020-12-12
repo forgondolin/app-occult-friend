@@ -8,13 +8,15 @@ function getUrl(){
 
 function getUrisParticipants(){
 	return [
-		`5fd4e1b9fbb23c2e36a5d4ff`
+		`5fd4e1b9fbb23c2e36a5d4ff`,
+		`5fd4e84c82e9306ae600ac39`
 	];
 }
 
 function getUrisDraw(){
 	return [
-		`5fd4e1b9fbb23c2e36a5d4ff`
+		`5fd4e1b9fbb23c2e36a5d4ff`,
+		`5fd4e84c82e9306ae600ac39`
 	];
 }
 
