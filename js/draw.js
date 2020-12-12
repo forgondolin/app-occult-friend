@@ -2,7 +2,7 @@ var participants = [];
 var draw = [];
 
 function getUrl(){
-	const url = 'https://api.myjson.com/bins';
+	const url = 'https://api.jsonbin.io/';
 	return url;
 }
 
