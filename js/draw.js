@@ -2,37 +2,19 @@ var participants = [];
 var draw = [];
 
 function getUrl(){
-	const url = 'https://api.jsonbin.io/';
+	const url = 'https://api.jsonbin.io/b';
 	return url;
 }
 
 function getUrisParticipants(){
 	return [
-		`mi7s4`,
-		`1hiwec`,
-		`10x4c4`,
-		`ew2yc`,
-		`t6hh0`,
-		`jpoyc`,
-		`kwk5w`,
-		`9lbo4`,
-		`gqixg`,
-		`z6yok`
+		`5fd4e1b9fbb23c2e36a5d4ff`
 	];
 }
 
 function getUrisDraw(){
 	return [
-		`jez5g`,
-		`83qno`,
-		`19m1ro`,
-		`sch84`,
-		`sxwtw`,
-		`6dl04`,
-		`1cncyc`,
-		`1du85w`,
-		`1f13dg`,
-		`ghyac`
+		`5fd4e1b9fbb23c2e36a5d4ff`
 	];
 }
 
